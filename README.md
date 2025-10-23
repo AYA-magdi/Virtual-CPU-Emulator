@@ -17,7 +17,7 @@ This project simulates a simplified **virtual CPU (VOLE Machine)** that can:
 - Use memory, registers, and an ALU for processing.
 - Display the final state of memory and registers after execution.
 
-This project was created as part of the **Cairo University – Computer Scienc
+This project was created as part of the **Cairo University – Computer Science** coursework.
 
 ---
 
